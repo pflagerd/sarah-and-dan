@@ -8,3 +8,7 @@ We're currently working on this chapter:
 And just finished this section:
 
 ![image](https://github.com/user-attachments/assets/e7e7c86f-1fe1-4d58-be9b-59dc14a7b146)
+
+
+Resources:
+[Elie's Podcast](https://music.youtube.com/playlist?list=PLEmN937yN2KaPx569bd4i6AOuJR3Uovxs&si=wHbfTo_KFuqT8IP6)

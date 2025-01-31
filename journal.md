@@ -1,6 +1,7 @@
 Jan 31 2025
   * Did this chunk: https://github.com/pflagerd/sarah-and-dan/issues/24
   * Added [#22](https://github.com/pflagerd/sarah-and-dan/issues/22), [#23](https://github.com/pflagerd/sarah-and-dan/issues/23), and [#24](https://github.com/pflagerd/sarah-and-dan/issues/24)
+  * Dan spent some time researching how to navigate to a particular page using a url suffix like #page=12 when reading a book with read.amazon.com.  It does not appear to be possible.
 
 
 

@@ -16,6 +16,8 @@ Resources:
 
 # TODO
 
-Sarah ensure all photos of art work are saved on current "Pictures" file on laptop.  [#26](https://github.com/pflagerd/sarah-and-dan/issues/26)
+Sarah: Ensure all photos of art work are saved on current "Pictures" file on laptop.  [#26](https://github.com/pflagerd/sarah-and-dan/issues/26)
 
-Check that Sarah is getting github.com notifications [#27](https://github.com/pflagerd/sarah-and-dan/issues/27)
+Dan: Check that Sarah is getting github.com notifications [#27](https://github.com/pflagerd/sarah-and-dan/issues/27)
+
+Sarah and Dan: Next Book Chunk: Your artistic project/business has to be "perfect" before you start promoting it.  [#27](https://github.com/pflagerd/sarah-and-dan/issues/24)

@@ -1,6 +1,0 @@
-2025/02/18-10:42:35.433 3dc06 Creating DB /home/oy753c/desktops/sarah-and-dan/.activity-chromium-browser/Default/WebStorage/12/IndexedDB/indexeddb.leveldb since it was missing.
-2025/02/18-10:42:35.443 3dc06 Reusing MANIFEST /home/oy753c/desktops/sarah-and-dan/.activity-chromium-browser/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2025/02/18-10:42:37.793 3dc07 Level-0 table #5: started
-2025/02/18-10:42:37.799 3dc07 Level-0 table #5: 460 bytes OK
-2025/02/18-10:42:37.810 3dc07 Delete type=0 #3
-2025/02/18-10:42:37.811 3dc07 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

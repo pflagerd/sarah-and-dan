@@ -16,6 +16,6 @@ Resources:
 
 # TODO
 
-Sarah ensure all photos of art work are saved on current "Pictures" file on laptop.  [#26](https://github.com/pflagerd/sarah-and-dan/issues/26)
+Sarah and Dan: Next Book Chunk: Your artistic project/business has to be "perfect" before you start promoting it.  [#27](https://github.com/pflagerd/sarah-and-dan/issues/24)
 
-Daniel to QR-Codes: How to get them/How to make them. [#14](https://github.com/pflagerd/sarah-and-dan/issues/14)
+Sarah: Ensure all photos of art work are saved on current "Pictures" file on laptop.  [#26](https://github.com/pflagerd/sarah-and-dan/issues/26)

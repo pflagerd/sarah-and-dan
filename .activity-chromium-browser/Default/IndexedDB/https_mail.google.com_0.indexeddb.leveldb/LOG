@@ -1,0 +1,63 @@
+2025/03/18-10:03:17.066 3fb2 Reusing MANIFEST /home/oy753c/desktops/sarah-and-dan/.activity-chromium-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/18-10:03:17.066 3fb2 Recovering log #43
+2025/03/18-10:03:17.067 3fb2 Reusing old log /home/oy753c/desktops/sarah-and-dan/.activity-chromium-browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000043.log 
+2025/03/18-10:03:19.871 3f9e Compacting 1@1 + 1@2 files
+2025/03/18-10:03:19.894 3f9e Generated table #46@1: 97 keys, 272193 bytes
+2025/03/18-10:03:19.894 3f9e Compacted 1@1 + 1@2 files => 272193 bytes
+2025/03/18-10:03:19.897 3f9e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/18-10:03:19.898 3f9e Delete type=2 #42
+2025/03/18-10:03:19.898 3f9e Delete type=2 #44
+2025/03/18-10:15:34.756 3f9e Level-0 table #48: started
+2025/03/18-10:15:34.801 3f9e Level-0 table #48: 3090599 bytes OK
+2025/03/18-10:15:34.805 3f9e Delete type=0 #43
+2025/03/18-10:16:27.398 3f9e Compacting 1@1 + 1@2 files
+2025/03/18-10:16:27.426 3f9e Generated table #49@1: 178 keys, 639393 bytes
+2025/03/18-10:16:27.426 3f9e Compacted 1@1 + 1@2 files => 639393 bytes
+2025/03/18-10:16:27.429 3f9e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/18-10:16:27.430 3f9e Delete type=2 #48
+2025/03/18-10:16:27.430 3f9e Delete type=2 #46
+2025/03/18-10:16:35.095 3f9e Level-0 table #51: started
+2025/03/18-10:16:35.138 3f9e Level-0 table #51: 3150693 bytes OK
+2025/03/18-10:16:35.142 3f9e Delete type=0 #47
+2025/03/18-10:17:24.021 3f9f Compacting 1@1 + 1@2 files
+2025/03/18-10:17:24.055 3f9f Generated table #52@1: 200 keys, 770407 bytes
+2025/03/18-10:17:24.055 3f9f Compacted 1@1 + 1@2 files => 770407 bytes
+2025/03/18-10:17:24.058 3f9f compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/18-10:17:24.059 3f9f Delete type=2 #49
+2025/03/18-10:17:24.059 3f9f Delete type=2 #51
+2025/03/18-10:17:24.059 3f9f Level-0 table #54: started
+2025/03/18-10:17:24.078 3f9f Level-0 table #54: 3092358 bytes OK
+2025/03/18-10:17:24.082 3f9f Delete type=0 #50
+2025/03/18-10:28:12.256 3f9e Compacting 1@1 + 1@2 files
+2025/03/18-10:28:12.283 3f9e Generated table #55@1: 67 keys, 73240 bytes
+2025/03/18-10:28:12.283 3f9e Compacted 1@1 + 1@2 files => 73240 bytes
+2025/03/18-10:28:12.286 3f9e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/18-10:28:12.287 3f9e Delete type=2 #54
+2025/03/18-10:28:12.287 3f9e Delete type=2 #52
+2025/03/18-10:28:25.916 3f9e Level-0 table #57: started
+2025/03/18-10:28:25.954 3f9e Level-0 table #57: 3101764 bytes OK
+2025/03/18-10:28:25.958 3f9e Delete type=0 #53
+2025/03/18-10:39:04.259 3f9e Compacting 1@1 + 1@2 files
+2025/03/18-10:39:04.290 3f9e Generated table #58@1: 63 keys, 44486 bytes
+2025/03/18-10:39:04.290 3f9e Compacted 1@1 + 1@2 files => 44486 bytes
+2025/03/18-10:39:04.294 3f9e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/18-10:39:04.294 3f9e Delete type=2 #57
+2025/03/18-10:39:04.294 3f9e Delete type=2 #55
+2025/03/18-10:39:20.115 3f9e Level-0 table #60: started
+2025/03/18-10:39:20.155 3f9e Level-0 table #60: 3181621 bytes OK
+2025/03/18-10:39:20.159 3f9e Delete type=0 #56
+2025/03/18-10:42:08.772 3f9e Compacting 1@1 + 1@2 files
+2025/03/18-10:42:08.806 3f9e Generated table #61@1: 228 keys, 933911 bytes
+2025/03/18-10:42:08.806 3f9e Compacted 1@1 + 1@2 files => 933911 bytes
+2025/03/18-10:42:08.810 3f9e compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/18-10:42:08.810 3f9e Delete type=2 #60
+2025/03/18-10:42:08.810 3f9e Delete type=2 #58
+2025/03/18-19:12:01.662 3f9e Level-0 table #63: started
+2025/03/18-19:12:01.697 3f9e Level-0 table #63: 2986766 bytes OK
+2025/03/18-19:12:01.701 3f9e Delete type=0 #59
+2025/03/18-19:13:01.491 3f9d Compacting 1@1 + 1@2 files
+2025/03/18-19:13:01.523 3f9d Generated table #64@1: 131 keys, 372963 bytes
+2025/03/18-19:13:01.523 3f9d Compacted 1@1 + 1@2 files => 372963 bytes
+2025/03/18-19:13:01.526 3f9d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/18-19:13:01.527 3f9d Delete type=2 #63
+2025/03/18-19:13:01.527 3f9d Delete type=2 #61

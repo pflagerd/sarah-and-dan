@@ -1,0 +1,15 @@
+2025/03/14-10:03:36.609 25beb Reusing MANIFEST /home/oy753c/desktops/sarah-and-dan/.activity-chromium-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/03/14-10:03:36.609 25beb Recovering log #7
+2025/03/14-10:03:36.610 25beb Reusing old log /home/oy753c/desktops/sarah-and-dan/.activity-chromium-browser/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000007.log 
+2025/03/14-10:30:12.846 25bec Level-0 table #12: started
+2025/03/14-10:30:12.850 25bec Level-0 table #12: 9827 bytes OK
+2025/03/14-10:30:12.855 25bec Delete type=0 #7
+2025/03/14-10:30:12.855 25bec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/03/14-10:30:12.855 25bec Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 1128 : 1
+2025/03/14-10:30:12.855 25bec Compacting 1@1 + 1@2 files
+2025/03/14-10:30:12.858 25bec Generated table #13@1: 36 keys, 2840 bytes
+2025/03/14-10:30:12.858 25bec Compacted 1@1 + 1@2 files => 2840 bytes
+2025/03/14-10:30:12.862 25bec compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/14-10:30:12.862 25bec Delete type=2 #9
+2025/03/14-10:30:12.862 25bec Delete type=2 #12
+2025/03/14-10:30:12.862 25bec Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 1128 : 1 .. (end); will stop at (end)

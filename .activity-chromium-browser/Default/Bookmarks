@@ -1,0 +1,58 @@
+{
+   "checksum": "5d0d53219879c5a0b8397c8e87191e4e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13383165145788084",
+            "date_last_used": "13386791007916168",
+            "guid": "8611d586-e211-4208-a882-f45cfd0d9772",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://meet.google.com/sog-apxh-ofo"
+         }, {
+            "date_added": "13383165061572454",
+            "date_last_used": "13386791000453524",
+            "guid": "a08cd1ca-8a4d-403c-8214-a8742d7fb05f",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://github.com/pflagerd/sarah-and-dan"
+         } ],
+         "date_added": "13383164888719253",
+         "date_last_used": "0",
+         "date_modified": "13383165154854921",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13383164888719256",
+         "date_last_used": "0",
+         "date_modified": "13383165061572454",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13383164888719258",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

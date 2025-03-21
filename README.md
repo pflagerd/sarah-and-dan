@@ -18,6 +18,7 @@ Resources:
 
 Add measurements and prices for existing art on Website [#42](https://github.com/pflagerd/sarah-and-dan/issues/42)
 
+Design new brochure for Judaica art [#41](https://github.com/pflagerd/sarah-and-dan/issues/41)
 
 Find Printer: [#45](https://github.com/pflagerd/sarah-and-dan/issues/45)
 

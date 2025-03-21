@@ -15,6 +15,10 @@ Resources:
 
 
 # TODO
+
+Add measurements and prices for existing art on Website [#42](https://github.com/pflagerd/sarah-and-dan/issues/42)
+
+
 Find Printer: [#45](https://github.com/pflagerd/sarah-and-dan/issues/45)
 
 Sarah and Dan: Next Book Chunk: Your artistic project/business has to be "perfect" before you start promoting it.  [#24](https://github.com/pflagerd/sarah-and-dan/issues/24)

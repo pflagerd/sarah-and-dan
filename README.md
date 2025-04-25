@@ -16,12 +16,9 @@ Resources:
 
 # TODO
 
+Add a BIO page on website [#34](https://github.com/pflagerd/sarah-and-dan/issues/34)
+Look into shipping art to the USA/ California [#46](https://github.com/pflagerd/sarah-and-dan/issues/46)
 Add measurements and prices for existing art on Website [#42](https://github.com/pflagerd/sarah-and-dan/issues/42)
-
-Design new brochure for Judaica art [#41](https://github.com/pflagerd/sarah-and-dan/issues/41)
-
-Find Printer: [#45](https://github.com/pflagerd/sarah-and-dan/issues/45)
-
 Sarah and Dan: Next Book Chunk: Your artistic project/business has to be "perfect" before you start promoting it.  [#24](https://github.com/pflagerd/sarah-and-dan/issues/24)
 
 

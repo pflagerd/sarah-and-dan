@@ -16,8 +16,6 @@ Resources:
 
 # TODO
 
-Add a BIO page on website [#34](https://github.com/pflagerd/sarah-and-dan/issues/34)
-
 Look into shipping art to the USA/ California [#46](https://github.com/pflagerd/sarah-and-dan/issues/46)
 
 Add measurements and prices for existing art on Website [#42](https://github.com/pflagerd/sarah-and-dan/issues/42)

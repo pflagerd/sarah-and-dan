@@ -16,7 +16,9 @@ Resources:
 
 # TODO
 
-Look into shipping art to the USA/ California [#46](https://github.com/pflagerd/sarah-and-dan/issues/46)
+Organize art room  [#51](https://github.com/pflagerd/sarah-and-dan/issues/51)
+
+Prepare for Winter Show (Little Fernwood Gallery)  [#50](https://github.com/pflagerd/sarah-and-dan/issues/50)
 
 Add measurements and prices for existing art on Website [#42](https://github.com/pflagerd/sarah-and-dan/issues/42)
 
